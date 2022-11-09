@@ -2,6 +2,8 @@
 ## experiment: Temperature restoring
 ## NCL based
 
+Lab note and scripts.
+
 Forcing-file generate script
 
 Masking generate script
