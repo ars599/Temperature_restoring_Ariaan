@@ -8,3 +8,6 @@ Forcing-file generate script
 
 Masking generate script
 
+
+# publication
+![](https://github.com/ars599/Temperature_restoring_Ariaan/blob/main/paper.png)
